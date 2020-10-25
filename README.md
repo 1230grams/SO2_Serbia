@@ -11,3 +11,5 @@ I used Earth engine python-api and geemap to generate a gif depicting SO2 levels
 ![Geemap - dr. Qiusheng Wu](https://github.com/giswqs/geemap)
 
 ![Earth engine documentation](https://developers.google.com/earth-engine/guides/ic_visualization)
+
+![Sentinel 5P - data](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2)
