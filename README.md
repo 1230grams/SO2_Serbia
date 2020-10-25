@@ -9,4 +9,5 @@ I used Earth engine python-api and geemap to generate a gif depicting SO2 levels
 
 ## Documentation
 ![Geemap - dr. Qiusheng Wu](https://github.com/giswqs/geemap)
+
 ![Earth engine documentation](https://developers.google.com/earth-engine/guides/ic_visualization)
